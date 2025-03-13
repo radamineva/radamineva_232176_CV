@@ -49,3 +49,8 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.namecolor{
+    color: #FFFFFF;
+    font-style: oblique;
+}
