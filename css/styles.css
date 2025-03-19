@@ -7,7 +7,7 @@
 /* Styles for the body */
 
 body {
-	font-family:  "Boldonse", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family:  "Funnel Display", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -54,4 +54,8 @@ body {
 .namecolor{
     color: #FFFFFF;
     font-style: oblique;
+}
+
+.fonttext {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;	
 }
